@@ -8,6 +8,11 @@ The project demonstrates how modern Natural Language Processing (NLP), sentence 
 
 ---
 
+## Demo
+
+Google Colab Notebook:
+[Click here to run the project]([YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1c-Qw7yywkzhlNYgDMyO2BREyqACLF5Cq#scrollTo=nkFOXuDsepEa))
+
 ## Features
 
 - Load and preprocess over **2,700 resumes**
