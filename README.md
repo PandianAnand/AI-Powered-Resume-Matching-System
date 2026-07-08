@@ -79,7 +79,7 @@ AI-Resume-Matching-System/
 Clone the repository
 
 ```bash
-git clone https://github.com/PandianAnand/AI-Resume-Matching-System.git
+git clone https://github.com/PandianAnand/AI-Powered-Resume-Matching-System.git
 ```
 
 Install dependencies
