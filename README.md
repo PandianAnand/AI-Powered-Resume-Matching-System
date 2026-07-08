@@ -63,7 +63,8 @@ AI-Resume-Matching-System/
 ├── README.md
 ├── requirements.txt
 └── screenshots/
-    ├── dataset_loaded.png
+    ├── dataset_loaded.png<img width="628" height="146" alt="Dataset_loaded" src="https://github.com/user-attachments/assets/4a82a008-dcb2-4a18-80a4-f4d90b7d358f" />
+
     ├── cleaned_dataframe.png
     ├── embeddings_shape.png
     ├── milvus_database.png
